@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoxanneJCoelho
-- 👀 I’m interested in mycology and ecological modeling
-- 🌱 I’m currently learning data science to improve my statistical skills
+- 🌱 I have a degree in Biology
+- 👀 I’m currently learning data science to improve my statistical skills
 - 😄 Pronouns: she/her
 
 <!---
