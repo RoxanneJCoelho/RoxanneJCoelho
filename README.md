@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RoxanneJCoelho
 - 🌱 I have a degree in Biology
-- 👀 I’m currently learning data science to improve my statistical skills
-- 😄 Pronouns: she/her
+- 👀 I’m currently learning Software Development
+- 😄 Hobbies: crochet, reading, hanging out w/friends
 
 <!---
 RoxanneJCoelho/RoxanneJCoelho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
