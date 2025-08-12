@@ -27,7 +27,6 @@
 ## 🌍 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roxanne-coelho-380354221/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teu-email@gmail.com)
 
 ---
 ⭐ _"Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende."_ – Leonardo da Vinci
